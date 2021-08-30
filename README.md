@@ -7,6 +7,7 @@ Verlet Integration simulation with P5.js
 - Mouse click => create point
 - Mouse click + Shift Key => create locked point
 - Mouse drag => connect points
+- Mouse drag + Shift Key => cut connections
 - Press 's' => Start simulation
 - Press 'r': Reset simulation
 
